@@ -8,3 +8,4 @@ hihao.
 =======
 nihao.
 >>>>>>> dev
+hello!this is new modify of master.
